@@ -1,0 +1,40 @@
+﻿{
+	"timeline":
+	{
+		"headline":"The Main Timeline Headline Goes here",
+		"type":"default",
+		"startDate":"2011,11",
+		"text":"<p>Intro body text goes here, some HTML is ok</p>",
+		"asset":
+		{
+			"media":"http://yourdomain_or_socialmedialink_goes_here.jpg",
+			"credit":"Credit Name Goes Here",
+			"caption":"Caption text goes here"
+		},
+		"date": [
+			{
+				"startDate":"2011,11,10",				
+				"headline":"Senior Software Engineer at R/GA",
+				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"asset":
+				{
+					"media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			},
+			{
+				"startDate":"2010,11,10",
+				"endDate":"2011,11,01",
+				"headline":"Lead Developer at Baufest",
+				"text":"<p>I'm a part of the development team were we developed various software projects and systems consultancy. My unit mostly develop projects using the .Net Framework. As an Architect my tasks consists on developing the key components for the projects I'm assign to since my leading role and the analysis and design of components, documenting and defining the solution architecture and frameworks we're going to use and coaching and teaching the team members on them. I also participate in the internal communities (we have communities for the technologies we use, java, .Net, project management, etc) we have at the company, were we discuss the best strategies to implement and help the rest of the teams with common problems and how we can improve the development process.</p>",
+				"asset":
+				{
+					"media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			}
+		]
+	}
+}
